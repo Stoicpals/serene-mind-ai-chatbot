@@ -1,0 +1,6 @@
+{
+  "name": "SereneMind AI Chatbot",
+  "description": "A frontend application for an AI-powered mental health chatbot with journaling and mood tracking features. User data is stored locally.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
